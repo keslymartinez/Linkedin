@@ -35,4 +35,5 @@ function setConnections(connections) {
 
     connHTML = connHTML + "</ul>";
     document.getElementById("connectionsdata").innerHTML = connHTML;
+         
 }
